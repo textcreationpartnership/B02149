@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The speech of ...] who was shot to death in the Isle of Man, [the 2. of Jan. 1662]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02149</idno>
+            <idno type="STC">Wing C3937B</idno>
+            <idno type="STC">ESTC R233462</idno>
+            <idno type="EEBO-CITATION">51784452</idno>
+            <idno type="OCLC">ocm 51784452</idno>
+            <idno type="VID">174869</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174869)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2704:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The speech of ...] who was shot to death in the Isle of Man, [the 2. of Jan. 1662]</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint and partial title from Wing (2nd ed.)</note>
+                  <note>Imperfect: cropped, with some loss of text.</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last words --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174869:1"/>
+            <head>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Who was ſhot to death in the <hi>Iſle of Man,</hi> the 2. of <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 1<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+            </head>
+            <opener>
+               <salute>GEntlemen, and the reſt of you that have accompanied me this day to the gates of my death,</salute>
+            </opener>
+            <p>
+               <q>I know you do expect I ſhould ſay ſomething at my departure; and indeed I am in ſome meaſure willing to ſatisfy you, having not had the leaſt liberty ſince my impriſonment to acquaint any with the ſadneſs of my ſufferings, which fleſh and bloud could not have endured, without the power and aſſiſtance of my moſt gracious and good God, into whoſe hands I do now commit my poor ſoul, not doubting but that I ſhall very quickly be in the arms of his mercy.</q>
+            </p>
+            <p>
+               <q>I am, (as now you ſee) hurried hither by the power of a pretended Court of Juſtice, the members whereof, or the greateſt part of them no ways qualified, but very ill-befitting their now places; the reaſons you may give your ſelves.</q>
+            </p>
+            <p>
+               <q>The cauſe for which I am brought hither, as the prompted and threatned Jury have delivered is High Treaſon againſt the Counteſs <hi>Dowager</hi> of <hi>Derby,</hi> for that I did as they ſay, in the year fifty one, raiſe a force againſt her, for the ſuppreſſing and rooting out that fami<g ref="char:EOLhyphen"/>ly: How unjuſt that accuſation is, very few of you that hear me this day but can witneſs with me, and that the then Riſing of the people, in which afterwards I came to be concerned, did not at all or in the leaſt intend the prejudice or ruine of that honourable family; the chief whereof as you well remember being dead eight days, or thereabouts, before that action happened. But the true cauſe of that ri<g ref="char:EOLhyphen"/>ſing, as the Jury did twice bring in, was to preſent grievances to our honourable Lady, which was done by me, and after approved of by her Ladyſhip, under the hand of her then Secretary Maſter <hi>Treoach,</hi> who is yet living; which agreement hath ſince to my own ruine and my poor families endleſs ſorrows been fore't from me, the Lord God forgive them the unjuſtneſs of their dealings with me, and I wiſh from my heart it may not be laid to their charge another day.</q>
+            </p>
+            <p>
+               <q>You now ſee me a ſacrifice ready to be offered up for that which was the preſervation of your lives and fortunes which then was in hazzard, but that I ſtood between you and your then (in all appearances) utter ruine. I wiſh you ſtill may (as you have hitherto) enjoy the ſweet benefit and bleſſing of peace, though from that minute untill now I have ſtill been proſecuted and perſecuted, nor have I ever ſince found a place to reſt my ſelf in. But now my God be for ever bleſſed and praiſed, that hath given me ſo large a meaſure of patience.</q>
+            </p>
+            <p>
+               <q>What ſervices I have done for that honourable Family, by whoſe power I am now to take my lateſt breath, I dare appeal to them<g ref="char:EOLhyphen"/>ſelves whether I have not deſerved better things from ſome of them, then the ſentence of my bodily deſtruction, and ſeizure of the poor eſtate, my Son ought to enjoy being purchaſed and left him by his Grandfather. It might have been much better, had I not ſpent it in the ſervice of my honourable Lord of <hi>Derby</hi> and his Family. Theſe things I need not mention to you, for that moſt of you are witneſſes to it, I ſhall now beg your patience whilſt I tell you here in the preſence of my God that I never in all my life acted any thing with intention to prejudice my Sovereign Lord the King, nor the late Earl of <hi>Derby,</hi> nor the now Earl; yet notwithſtanding being in <hi>England</hi> at the time of his Sacred Majeſties happy reſtauration, I went to <hi>London</hi> with many others to have a ſight of my gracious King, whom God preſerve, and who untill then I never had ſeen, but I was not long there when I was arreſted upon an action of twen<g ref="char:EOLhyphen"/>ty thouſand pounds, and clapt up into the <hi>Fleet;</hi> unto which Action I being a ſtranger could give no Bayl, but was there kept near a whole year. How I ſuffered there, God he knows; but at laſt having gain'd my libertie, I thought good to adviſe with ſeveral Gen<g ref="char:EOLhyphen"/>tlemen concerning his Majeſties gracious Act of <hi>Indempnity</hi> that was then ſet forth by his Majeſtie, in which I thought my ſelf con<g ref="char:EOLhyphen"/>cern'd, unto which they told me there was no doubt to be made but that all actions committed in the <hi>Iſle</hi> of <hi>Man,</hi> relating in any kind to the War was pardoned by the Act of <hi>Indempnity,</hi> and all other places within his Majeſties Dominions and Countries, whereupon, and having been forct to abſent my ſelf from my poor wife and children near three years, being all that time under perſecution, I did with great content and ſatisfaction return into this Iſland, hoping then to receive the comfort and ſweet enjoyment of my friends and poor Family, But alas I have faln into the ſnare of the Fowler, but my God ſhall ever be praiſed, and though he kill me, yet will I truſt in him.</q>
+            </p>
+            <p>
+               <q>I may juſtly ſay no man in this Iſland knows better then my ſelf the power my Lord of <hi>Derby</hi> hath in this Iſland ſubordinate to his Sacred Majeſtie, of which I have given a full account in my Declaration preſented to my Judges, which I much fear muſt never ſee light, which is no ſmall trouble to me:</q>
+            </p>
+            <p>
+               <q>It was his <hi>Majeſties</hi> gracious Act of Indempnity that gave me the confidence and aſſurance of my ſafety, on which, and an Appeal I made to his Sacred <hi>Majeſty</hi> and Privie Council, from the unjuſtneſſe of the proceedings held againſt me, I did much relie being his <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Subject here, and a Deniſon of <hi>England</hi> both by birth and fortune, and in regard I have diſobeyed the power of my Lord of <hi>Derby</hi>'s Act of Indempnity, which you now all look upon, and his <hi>Majeſties</hi> gracious Act caſt out, as being of no force, I have with greater violence been proſecuted; yet nevertheleſſe I do declare, That no Subject whatſoever can, or ought to take upon them to make Acts of Indempnity, but his Sacred <hi>Majeſty</hi> only, and confirmation of a Parliament.</q>
+            </p>
+            <p>
+               <q>It is very fit I ſhould ſay ſomething as to my Education and Religion; I think I need not inform any, all of you knowing that I was brought up as a ſon of the Church of <hi>England,</hi> which was at that time in their Splendor and Glory, and to my endleſſe comfort I have ever ſince continued a faithful member; witneſſe ſeveral of my actions in theſe late times of Liberty, againſt <hi>Quakers, &amp;c.</hi> and as for Go<g ref="char:EOLhyphen"/>vernment, I never was againſt <hi>Monarchy,</hi> which is now to my ſouls great ſatisfaction, I have lived to ſee it throughly ſettled and eſtabliſhed, well aſſuring my ſelf, that men of upright lives and converſations, may have the favourable countenance of our gracious good <hi>King,</hi> under whoſe happy Government God of his infinite mercy long continue theſe His Kingdomes and Dominions; and now I do moſt heartily thank my good God, that I have had ſo much liberty and time to disburden my ſelf of ſome things that hath lain heavy upon me all the time of my impriſonment, in which I have not had time or liberty to ſpeak or write any of my thoughts, and from my ſoul I wiſh all animoſities may after my death be quite laid aſide, and my death by none called in queſtion, for I do freely forgive all that hath had any hand in my perſecutions, and may our good God preſerve you all in peace and quiet all the remainder of your dayes.</q>
+            </p>
+            <p>
+               <q>Be ye all of you, as you are His <hi>Majeſties</hi> Liege people, moſt loyal and faithful to His Sacred <hi>Majeſty;</hi> and according to your Oaths of faith and fealty, to my honourable Lord of <hi>Derby,</hi> do ye likewiſe in all juſt and lawfull ways obſerve his commands, and know that you muſt one day give an account of all your deeds, and now the bleſſing of Almighty God be with you all, and preſerve you from all vio<g ref="char:EOLhyphen"/>lent death, and keep you in peace of conſcience all your days.</q>
+            </p>
+            <p>
+               <q>I will now haſten, for my fleſh is willing to be diſſolved, and my ſpirit to be with my God, who hath given me full aſſurance of his mercy and pardon for all my ſins, of which his unſpeakable goodneſſe and loving kindneſſe, my poor ſoul is exceedingly ſatisfied:</q> and then he falling upon his knees, and having ended a prayer, in which he ſhewed much of earneſtneſſe, he got up exceeding chearfully, and calling for the Soldiers, he ſaid unto them, <q>And now for you that are my executioners by lot, I do here freely forgive you, and in aſſurance thereof I will kiſs you all,</q> and did ſo, deſiring them, and all preſent to pray for his ſoul; He ſaid <q>there is now but a thin vaile betwixt me and death; once more I deſire your prayers, for now I take my laſt farewell of you all;</q> after which they intending to bind him to the place where he ſtood, he told them, you need not trouble yourſelves nor me, for I that dare look death in the face in what ſhape ſoever he appears, will not ſtart at your Fire, nor Bullets, nor can the power you have, take the leaſt grain of my courage from me; and having white paper given him upon his deſire, he took it and pind it himſelf upon his breaſt to direct the Soldiers where to aim; and turning aſide himſelf he made a ſhort prayer, after which he ſaid to his executioners, <q>hit this, and you do yours and my work,</q> and preſently after ſtretching forth his armes, which was the ſign he gave them, received the ſhots, and yielded up the Ghoſt, having not one drop of blood poured out upon the ground, though ſhot into the heart.</p>
+            <p>
+               <hi>Much more would have been ſaid, to the ſatisfaction of the world, had be got the liberty of Pen, Ink or Paper. The above written is only that which he ſpoke at the place of execution.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
